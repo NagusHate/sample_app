@@ -20,6 +20,7 @@ group :test do
   gem 'spork-rails'
   gem 'guard-spork'
   gem 'childprocess'
+  gem 'factory_girl_rails', '4.2.1'
 end
 
 gem 'sass-rails', '~> 5.0'
